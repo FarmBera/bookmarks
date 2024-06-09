@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[4529],{4529:(e,t,i)=>{e.exports=i.p+"static/media/wrtn.a8f12472f1b29de25932.png"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[918],{6918:(e,s,t)=>{e.exports=t.p+"static/media/Instagram.1311da613ef132f9f3bd.png"}}]);

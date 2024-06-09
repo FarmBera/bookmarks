@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[8752],{8752:(e,a,s)=>{e.exports=s.p+"static/media/Google News.228ea553aaa179bbb290.png"}}]);
