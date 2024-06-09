@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[701],{701:(e,i,c)=>{e.exports=c.p+"static/media/NAVER Mail_ico.53cdf27e4db5cbe8483e.png"}}]);

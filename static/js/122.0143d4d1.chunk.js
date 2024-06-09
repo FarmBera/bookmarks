@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[122],{7122:(u,b,c)=>{u.exports=c.p+"static/media/DuckDuckGo.790294b03bcb23f6fd27.png"}}]);
