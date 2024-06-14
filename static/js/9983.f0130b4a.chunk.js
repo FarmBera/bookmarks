@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[9983],{9983:(e,b,i)=>{e.exports=i.p+"static/media/Yandex.5cb3c24a244d3db2ddeb.png"}}]);
