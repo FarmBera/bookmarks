@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[4271],{4271:(b,e,i)=>{b.exports=i.p+"static/media/NAVER Mail.bbbd71eb7f59cd7b7b67.png"}}]);
