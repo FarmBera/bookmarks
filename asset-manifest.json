@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.7aa63c06.css",
+<<<<<<< Updated upstream
     "main.js": "/static/js/main.c8e1045a.js",
+=======
+    "main.js": "/static/js/main.65c6a654.js",
+>>>>>>> Stashed changes
     "static/js/4643.579be27a.chunk.js": "/static/js/4643.579be27a.chunk.js",
     "static/js/7050.6ae0fca3.chunk.js": "/static/js/7050.6ae0fca3.chunk.js",
     "static/js/2359.69acaa6f.chunk.js": "/static/js/2359.69acaa6f.chunk.js",
@@ -15,6 +19,10 @@
     "static/js/9627.c1cc6c80.chunk.js": "/static/js/9627.c1cc6c80.chunk.js",
     "static/js/106.5bd8effa.chunk.js": "/static/js/106.5bd8effa.chunk.js",
     "static/js/4372.508b89e2.chunk.js": "/static/js/4372.508b89e2.chunk.js",
+<<<<<<< Updated upstream
+=======
+    "static/js/4403.03b16f54.chunk.js": "/static/js/4403.03b16f54.chunk.js",
+>>>>>>> Stashed changes
     "static/js/3082.2b6ef174.chunk.js": "/static/js/3082.2b6ef174.chunk.js",
     "static/js/7122.02832661.chunk.js": "/static/js/7122.02832661.chunk.js",
     "static/js/9853.a3d988b9.chunk.js": "/static/js/9853.a3d988b9.chunk.js",
@@ -51,6 +59,10 @@
     "static/js/6749.a23bfd2a.chunk.js": "/static/js/6749.a23bfd2a.chunk.js",
     "static/js/1502.7b069237.chunk.js": "/static/js/1502.7b069237.chunk.js",
     "static/js/4414.473d541a.chunk.js": "/static/js/4414.473d541a.chunk.js",
+<<<<<<< Updated upstream
+=======
+    "static/js/9983.f0130b4a.chunk.js": "/static/js/9983.f0130b4a.chunk.js",
+>>>>>>> Stashed changes
     "static/js/9583.750918bf.chunk.js": "/static/js/9583.750918bf.chunk.js",
     "static/js/8637.0fb738dd.chunk.js": "/static/js/8637.0fb738dd.chunk.js",
     "static/js/3024.48cd2b57.chunk.js": "/static/js/3024.48cd2b57.chunk.js",
@@ -66,6 +78,10 @@
     "static/media/크집사빨간맛.png": "/static/media/크집사빨간맛.43da2afca5cb342c87e3.png",
     "static/media/iCloud.png": "/static/media/iCloud.acdfab4b4bde9e50a381.png",
     "static/media/wrtn.png": "/static/media/wrtn.a8f12472f1b29de25932.png",
+<<<<<<< Updated upstream
+=======
+    "static/media/Yandex.png": "/static/media/Yandex.5cb3c24a244d3db2ddeb.png",
+>>>>>>> Stashed changes
     "static/media/PUBG_outlined.png": "/static/media/PUBG_outlined.ca37d0969537982fc5bb.png",
     "static/media/DuckDuckGo.png": "/static/media/DuckDuckGo.790294b03bcb23f6fd27.png",
     "static/media/PUBG.png": "/static/media/PUBG.fdf143db0e803c98261a.png",
@@ -97,11 +113,19 @@
     "static/media/Kagi Search.png": "/static/media/Kagi Search.d4acad6698267e5a1b0e.png",
     "index.html": "/index.html",
     "main.7aa63c06.css.map": "/static/css/main.7aa63c06.css.map",
+<<<<<<< Updated upstream
     "main.c8e1045a.js.map": "/static/js/main.c8e1045a.js.map",
+=======
+    "main.65c6a654.js.map": "/static/js/main.65c6a654.js.map",
+>>>>>>> Stashed changes
     "6453.365d2ede.chunk.js.map": "/static/js/6453.365d2ede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7aa63c06.css",
+<<<<<<< Updated upstream
     "static/js/main.c8e1045a.js"
+=======
+    "static/js/main.65c6a654.js"
+>>>>>>> Stashed changes
   ]
 }
