@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7aa63c06.css",
-    "main.js": "/static/js/main.fb9198d0.js",
+    "main.css": "/static/css/main.1569246f.css",
+    "main.js": "/static/js/main.1dbb1a34.js",
     "static/js/4643.579be27a.chunk.js": "/static/js/4643.579be27a.chunk.js",
     "static/js/7050.6ae0fca3.chunk.js": "/static/js/7050.6ae0fca3.chunk.js",
     "static/js/2359.69acaa6f.chunk.js": "/static/js/2359.69acaa6f.chunk.js",
@@ -45,12 +45,14 @@
     "static/js/9720.3798f68b.chunk.js": "/static/js/9720.3798f68b.chunk.js",
     "static/js/6540.c31fc5be.chunk.js": "/static/js/6540.c31fc5be.chunk.js",
     "static/js/2591.14111e7e.chunk.js": "/static/js/2591.14111e7e.chunk.js",
+    "static/js/2624.6dba833f.chunk.js": "/static/js/2624.6dba833f.chunk.js",
     "static/js/6982.c9f11790.chunk.js": "/static/js/6982.c9f11790.chunk.js",
     "static/js/7061.5ec6113b.chunk.js": "/static/js/7061.5ec6113b.chunk.js",
     "static/js/6566.ab944778.chunk.js": "/static/js/6566.ab944778.chunk.js",
     "static/js/2856.1cc76541.chunk.js": "/static/js/2856.1cc76541.chunk.js",
     "static/js/6749.a23bfd2a.chunk.js": "/static/js/6749.a23bfd2a.chunk.js",
     "static/js/1502.7b069237.chunk.js": "/static/js/1502.7b069237.chunk.js",
+    "static/js/400.7f389b64.chunk.js": "/static/js/400.7f389b64.chunk.js",
     "static/js/4414.473d541a.chunk.js": "/static/js/4414.473d541a.chunk.js",
     "static/js/9983.f0130b4a.chunk.js": "/static/js/9983.f0130b4a.chunk.js",
     "static/js/9583.750918bf.chunk.js": "/static/js/9583.750918bf.chunk.js",
@@ -59,7 +61,6 @@
     "static/js/7525.4cc6b00a.chunk.js": "/static/js/7525.4cc6b00a.chunk.js",
     "static/js/4529.59a8d3f4.chunk.js": "/static/js/4529.59a8d3f4.chunk.js",
     "static/js/6238.56782bab.chunk.js": "/static/js/6238.56782bab.chunk.js",
-    "static/js/6453.365d2ede.chunk.js": "/static/js/6453.365d2ede.chunk.js",
     "static/media/iCloud_.png": "/static/media/iCloud_.62bd4e243ba6c1d22dba.png",
     "static/media/Copilot.png": "/static/media/Copilot.7d55fae7d7720a9af98c.png",
     "static/media/Quasarzone.png": "/static/media/Quasarzone.da460205fca0d763e2e7.png",
@@ -71,6 +72,7 @@
     "static/media/Yandex.png": "/static/media/Yandex.5cb3c24a244d3db2ddeb.png",
     "static/media/PUBG_outlined.png": "/static/media/PUBG_outlined.ca37d0969537982fc5bb.png",
     "static/media/DuckDuckGo.png": "/static/media/DuckDuckGo.790294b03bcb23f6fd27.png",
+    "static/media/Voicemeeter.png": "/static/media/Voicemeeter.28895d452c83d85e3c21.png",
     "static/media/PUBG.png": "/static/media/PUBG.fdf143db0e803c98261a.png",
     "static/media/NAVER Mail.png": "/static/media/NAVER Mail.bbbd71eb7f59cd7b7b67.png",
     "static/media/Reddit.png": "/static/media/Reddit.51430e68f03dbc13b47e.png",
@@ -82,6 +84,7 @@
     "static/media/Google Translate.png": "/static/media/Google Translate.f17c6c02e8a614d47221.png",
     "static/media/Loading.png": "/static/media/Loading.71cc43981124643160cd.png",
     "static/media/Reddit_.png": "/static/media/Reddit_.df89d36891f13e9027fe.png",
+    "static/media/Parsec.png": "/static/media/Parsec.d129b215bbc0c0187081.png",
     "static/media/Google News.png": "/static/media/Google News.228ea553aaa179bbb290.png",
     "static/media/Noicon2.png": "/static/media/Noicon2.914b6f7c70bce21c0629.png",
     "static/media/Github.png": "/static/media/Github.f9f08effba98cbdb7b69.png",
@@ -99,12 +102,11 @@
     "static/media/Quasarzone_.png": "/static/media/Quasarzone_.d575dc99a594420226a6.png",
     "static/media/Kagi Search.png": "/static/media/Kagi Search.d4acad6698267e5a1b0e.png",
     "index.html": "/index.html",
-    "main.7aa63c06.css.map": "/static/css/main.7aa63c06.css.map",
-    "main.fb9198d0.js.map": "/static/js/main.fb9198d0.js.map",
-    "6453.365d2ede.chunk.js.map": "/static/js/6453.365d2ede.chunk.js.map"
+    "main.1569246f.css.map": "/static/css/main.1569246f.css.map",
+    "main.1dbb1a34.js.map": "/static/js/main.1dbb1a34.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa63c06.css",
-    "static/js/main.fb9198d0.js"
+    "static/css/main.1569246f.css",
+    "static/js/main.1dbb1a34.js"
   ]
 }

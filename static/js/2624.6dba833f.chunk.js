@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[2624],{2624:(e,s,b)=>{e.exports=b.p+"static/media/Parsec.d129b215bbc0c0187081.png"}}]);
