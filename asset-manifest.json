@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1569246f.css",
-    "main.js": "/static/js/main.1dbb1a34.js",
+    "main.js": "/static/js/main.7320be95.js",
     "static/js/4643.579be27a.chunk.js": "/static/js/4643.579be27a.chunk.js",
     "static/js/7050.6ae0fca3.chunk.js": "/static/js/7050.6ae0fca3.chunk.js",
     "static/js/2359.69acaa6f.chunk.js": "/static/js/2359.69acaa6f.chunk.js",
@@ -20,9 +20,9 @@
     "static/js/7122.02832661.chunk.js": "/static/js/7122.02832661.chunk.js",
     "static/js/9853.a3d988b9.chunk.js": "/static/js/9853.a3d988b9.chunk.js",
     "static/js/513.9206f217.chunk.js": "/static/js/513.9206f217.chunk.js",
-    "static/js/6680.f7108bd7.chunk.js": "/static/js/6680.f7108bd7.chunk.js",
+    "static/js/6680.dcef1ea0.chunk.js": "/static/js/6680.dcef1ea0.chunk.js",
     "static/js/4034.26d75b19.chunk.js": "/static/js/4034.26d75b19.chunk.js",
-    "static/js/523.f652a568.chunk.js": "/static/js/523.f652a568.chunk.js",
+    "static/js/523.8a51d045.chunk.js": "/static/js/523.8a51d045.chunk.js",
     "static/js/5737.1750fb93.chunk.js": "/static/js/5737.1750fb93.chunk.js",
     "static/js/5621.9bbad8c7.chunk.js": "/static/js/5621.9bbad8c7.chunk.js",
     "static/js/4595.f46af5a3.chunk.js": "/static/js/4595.f46af5a3.chunk.js",
@@ -56,7 +56,9 @@
     "static/js/4414.473d541a.chunk.js": "/static/js/4414.473d541a.chunk.js",
     "static/js/9983.f0130b4a.chunk.js": "/static/js/9983.f0130b4a.chunk.js",
     "static/js/9583.750918bf.chunk.js": "/static/js/9583.750918bf.chunk.js",
-    "static/js/8637.0fb738dd.chunk.js": "/static/js/8637.0fb738dd.chunk.js",
+    "static/js/8637.872c3a10.chunk.js": "/static/js/8637.872c3a10.chunk.js",
+    "static/js/4398.786561e9.chunk.js": "/static/js/4398.786561e9.chunk.js",
+    "static/js/7097.6604f05f.chunk.js": "/static/js/7097.6604f05f.chunk.js",
     "static/js/3024.48cd2b57.chunk.js": "/static/js/3024.48cd2b57.chunk.js",
     "static/js/7525.4cc6b00a.chunk.js": "/static/js/7525.4cc6b00a.chunk.js",
     "static/js/4529.59a8d3f4.chunk.js": "/static/js/4529.59a8d3f4.chunk.js",
@@ -87,26 +89,28 @@
     "static/media/Parsec.png": "/static/media/Parsec.d129b215bbc0c0187081.png",
     "static/media/Google News.png": "/static/media/Google News.228ea553aaa179bbb290.png",
     "static/media/Noicon2.png": "/static/media/Noicon2.914b6f7c70bce21c0629.png",
+    "static/media/Gmail.png": "/static/media/Gmail.a35b2b3051b389ad92e4.png",
     "static/media/Github.png": "/static/media/Github.f9f08effba98cbdb7b69.png",
     "static/media/OBS Studio.png": "/static/media/OBS Studio.d9bd6de5c9473188da66.png",
-    "static/media/Gmail.png": "/static/media/Gmail.66b5bb690ccbd0ddff16.png",
     "static/media/Minecraft.png": "/static/media/Minecraft.4918a9007df6442ee5d9.png",
     "static/media/Apple.png": "/static/media/Apple.97787adaf2fae2243127.png",
     "static/media/Gemini.png": "/static/media/Gemini.05509233feb57da9851f.png",
     "static/media/Yahoo.png": "/static/media/Yahoo.9a145d1ffa9434ef7b30.png",
-    "static/media/YouTube.png": "/static/media/YouTube.8cd6348193f4a6226b69.png",
+    "static/media/YouTube_v1.png": "/static/media/YouTube_v1.a3e03667e7d1aeb1e2cb.png",
+    "static/media/Google Calendar.png": "/static/media/Google Calendar.dd6af1cf4269caab804f.png",
+    "static/media/YouTube_.png": "/static/media/YouTube_.8cd6348193f4a6226b69.png",
     "static/media/Google Drive.png": "/static/media/Google Drive.ed8219f690de2ffe1b9e.png",
-    "static/media/Google Calendar.png": "/static/media/Google Calendar.174a6a4cfa3cac9850dc.png",
     "static/media/Apple Music.png": "/static/media/Apple Music.a134e1d5f6c1ed04ff0b.png",
+    "static/media/YouTube.png": "/static/media/YouTube.7bea553de901bdd0940b.png",
     "static/media/Bing.png": "/static/media/Bing.564c93d15668a04dbba3.png",
     "static/media/Quasarzone_.png": "/static/media/Quasarzone_.d575dc99a594420226a6.png",
     "static/media/Kagi Search.png": "/static/media/Kagi Search.d4acad6698267e5a1b0e.png",
     "index.html": "/index.html",
     "main.1569246f.css.map": "/static/css/main.1569246f.css.map",
-    "main.1dbb1a34.js.map": "/static/js/main.1dbb1a34.js.map"
+    "main.7320be95.js.map": "/static/js/main.7320be95.js.map"
   },
   "entrypoints": [
     "static/css/main.1569246f.css",
-    "static/js/main.1dbb1a34.js"
+    "static/js/main.7320be95.js"
   ]
 }
