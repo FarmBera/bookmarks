@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[5621],{5621:(e,s,k)=>{e.exports=k.p+"static/media/Google Drive.ed8219f690de2ffe1b9e.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[6670],{6670:(a,s,e)=>{a.exports=e.p+"static/media/Copilot.7d55fae7d7720a9af98c.png"}}]);

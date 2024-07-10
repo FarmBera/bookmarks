@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[413],{413:(a,e,s)=>{a.exports=s.p+"static/media/Claire Luvcat.1afeadf648ffafd21a68.png"}}]);

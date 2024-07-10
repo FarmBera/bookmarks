@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[6680],{6680:(a,s,e)=>{a.exports=e.p+"static/media/Gmail.a35b2b3051b389ad92e4.png"}}]);

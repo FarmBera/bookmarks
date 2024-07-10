@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[1894],{1894:(s,a,k)=>{s.exports=k.p+"static/media/Bing.564c93d15668a04dbba3.png"}}]);

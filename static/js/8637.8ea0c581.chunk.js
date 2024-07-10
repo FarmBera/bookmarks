@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[8637],{8637:(e,s,b)=>{e.exports=b.p+"static/media/YouTube.7bea553de901bdd0940b.png"}}]);

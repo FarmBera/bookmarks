@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[6918],{6918:(s,a,e)=>{s.exports=e.p+"static/media/Instagram.1311da613ef132f9f3bd.png"}}]);

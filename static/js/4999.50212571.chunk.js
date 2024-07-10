@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[4999],{4999:(e,s,a)=>{e.exports=a.p+"static/media/Google Translate.f17c6c02e8a614d47221.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[3024],{3024:(a,e,s)=>{a.exports=s.p+"static/media/iCloud.acdfab4b4bde9e50a381.png"}}]);

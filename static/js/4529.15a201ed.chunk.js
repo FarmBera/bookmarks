@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[4529],{4529:(s,e,k)=>{s.exports=k.p+"static/media/wrtn.a8f12472f1b29de25932.png"}}]);

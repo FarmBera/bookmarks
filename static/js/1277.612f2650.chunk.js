@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[1277],{1277:(s,a,k)=>{s.exports=k.p+"static/media/MacRumors.0051b5cc0340a47d0fb8.png"}}]);

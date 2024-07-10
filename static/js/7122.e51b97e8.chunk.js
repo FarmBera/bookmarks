@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[7122],{7122:(k,s,b)=>{k.exports=b.p+"static/media/DuckDuckGo.790294b03bcb23f6fd27.png"}}]);

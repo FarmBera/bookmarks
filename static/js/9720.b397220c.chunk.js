@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[9720],{9720:(s,e,k)=>{s.exports=k.p+"static/media/OBS Studio.d9bd6de5c9473188da66.png"}}]);

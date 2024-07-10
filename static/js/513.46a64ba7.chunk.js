@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[513],{513:(b,s,e)=>{b.exports=e.p+"static/media/Github.f9f08effba98cbdb7b69.png"}}]);

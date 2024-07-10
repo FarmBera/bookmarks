@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[106],{106:(a,s,e)=>{a.exports=e.p+"static/media/Danawa.d488c3fa1e0a74d89b68.png"}}]);

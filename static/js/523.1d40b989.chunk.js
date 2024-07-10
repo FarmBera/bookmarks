@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[523],{523:(a,e,s)=>{a.exports=s.p+"static/media/Google Calendar.dd6af1cf4269caab804f.png"}}]);

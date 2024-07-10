@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[3359],{3359:(e,s,a)=>{e.exports=a.p+"static/media/Minecraft.4918a9007df6442ee5d9.png"}}]);

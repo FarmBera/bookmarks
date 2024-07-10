@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_github_io=self.webpackChunkmy_github_io||[]).push([[6680],{6680:(e,i,a)=>{e.exports=a.p+"static/media/Gmail.a35b2b3051b389ad92e4.png"}}]);

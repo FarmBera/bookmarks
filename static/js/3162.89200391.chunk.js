@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[3162],{3162:(s,c,e)=>{s.exports=e.p+"static/media/Noicon2.914b6f7c70bce21c0629.png"}}]);

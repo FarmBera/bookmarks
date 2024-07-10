@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[7061],{7061:(a,e,s)=>{a.exports=s.p+"static/media/Quasarzone.da460205fca0d763e2e7.png"}}]);

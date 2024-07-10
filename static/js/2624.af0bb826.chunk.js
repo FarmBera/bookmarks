@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[2624],{2624:(s,e,k)=>{s.exports=k.p+"static/media/Parsec.d129b215bbc0c0187081.png"}}]);
