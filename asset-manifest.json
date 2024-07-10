@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bookmarks/static/css/main.1569246f.css",
-    "main.js": "/bookmarks/static/js/main.1ce57ef1.js",
+    "main.css": "/bookmarks/static/css/main.f85dfc2a.css",
+    "main.js": "/bookmarks/static/js/main.04d93e89.js",
     "static/js/4643.c2506c44.chunk.js": "/bookmarks/static/js/4643.c2506c44.chunk.js",
     "static/js/7050.204fe8bc.chunk.js": "/bookmarks/static/js/7050.204fe8bc.chunk.js",
     "static/js/2359.b9bd3ff4.chunk.js": "/bookmarks/static/js/2359.b9bd3ff4.chunk.js",
@@ -53,7 +53,7 @@
     "static/js/6749.97dc3722.chunk.js": "/bookmarks/static/js/6749.97dc3722.chunk.js",
     "static/js/1502.b4a9a56a.chunk.js": "/bookmarks/static/js/1502.b4a9a56a.chunk.js",
     "static/js/400.3a334302.chunk.js": "/bookmarks/static/js/400.3a334302.chunk.js",
-    "static/js/4414.4f81949a.chunk.js": "/bookmarks/static/js/4414.4f81949a.chunk.js",
+    "static/js/4414.717b9f2c.chunk.js": "/bookmarks/static/js/4414.717b9f2c.chunk.js",
     "static/js/9983.02435346.chunk.js": "/bookmarks/static/js/9983.02435346.chunk.js",
     "static/js/9583.f00a57b5.chunk.js": "/bookmarks/static/js/9583.f00a57b5.chunk.js",
     "static/js/8637.8ea0c581.chunk.js": "/bookmarks/static/js/8637.8ea0c581.chunk.js",
@@ -107,12 +107,10 @@
     "static/media/Bing.png": "/bookmarks/static/media/Bing.564c93d15668a04dbba3.png",
     "static/media/Quasarzone_.png": "/bookmarks/static/media/Quasarzone_.d575dc99a594420226a6.png",
     "static/media/Kagi Search.png": "/bookmarks/static/media/Kagi Search.d4acad6698267e5a1b0e.png",
-    "index.html": "/bookmarks/index.html",
-    "main.1569246f.css.map": "/bookmarks/static/css/main.1569246f.css.map",
-    "main.1ce57ef1.js.map": "/bookmarks/static/js/main.1ce57ef1.js.map"
+    "index.html": "/bookmarks/index.html"
   },
   "entrypoints": [
-    "static/css/main.1569246f.css",
-    "static/js/main.1ce57ef1.js"
+    "static/css/main.f85dfc2a.css",
+    "static/js/main.04d93e89.js"
   ]
 }
