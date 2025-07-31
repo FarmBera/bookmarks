@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[2591],{2591:(s,e,k)=>{s.exports=k.p+"static/media/PUBG_outlined.ca37d0969537982fc5bb.png"}}]);

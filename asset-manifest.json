@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookmarks/static/css/main.f85dfc2a.css",
-    "main.js": "/bookmarks/static/js/main.04d93e89.js",
+    "main.js": "/bookmarks/static/js/main.e069a961.js",
     "static/js/4643.c2506c44.chunk.js": "/bookmarks/static/js/4643.c2506c44.chunk.js",
     "static/js/7050.204fe8bc.chunk.js": "/bookmarks/static/js/7050.204fe8bc.chunk.js",
     "static/js/2359.b9bd3ff4.chunk.js": "/bookmarks/static/js/2359.b9bd3ff4.chunk.js",
@@ -43,8 +43,8 @@
     "static/js/3162.89200391.chunk.js": "/bookmarks/static/js/3162.89200391.chunk.js",
     "static/js/8760.0bfc2dcf.chunk.js": "/bookmarks/static/js/8760.0bfc2dcf.chunk.js",
     "static/js/9720.b397220c.chunk.js": "/bookmarks/static/js/9720.b397220c.chunk.js",
+    "static/js/8324.2e97acce.chunk.js": "/bookmarks/static/js/8324.2e97acce.chunk.js",
     "static/js/6540.443e61f7.chunk.js": "/bookmarks/static/js/6540.443e61f7.chunk.js",
-    "static/js/2591.5eec8fad.chunk.js": "/bookmarks/static/js/2591.5eec8fad.chunk.js",
     "static/js/2624.af0bb826.chunk.js": "/bookmarks/static/js/2624.af0bb826.chunk.js",
     "static/js/6982.d3650267.chunk.js": "/bookmarks/static/js/6982.d3650267.chunk.js",
     "static/js/7061.41ed3059.chunk.js": "/bookmarks/static/js/7061.41ed3059.chunk.js",
@@ -53,6 +53,8 @@
     "static/js/6749.97dc3722.chunk.js": "/bookmarks/static/js/6749.97dc3722.chunk.js",
     "static/js/1502.b4a9a56a.chunk.js": "/bookmarks/static/js/1502.b4a9a56a.chunk.js",
     "static/js/400.3a334302.chunk.js": "/bookmarks/static/js/400.3a334302.chunk.js",
+    "static/js/1977.98d9c787.chunk.js": "/bookmarks/static/js/1977.98d9c787.chunk.js",
+    "static/js/2037.cc282d46.chunk.js": "/bookmarks/static/js/2037.cc282d46.chunk.js",
     "static/js/4414.717b9f2c.chunk.js": "/bookmarks/static/js/4414.717b9f2c.chunk.js",
     "static/js/9983.02435346.chunk.js": "/bookmarks/static/js/9983.02435346.chunk.js",
     "static/js/9583.f00a57b5.chunk.js": "/bookmarks/static/js/9583.f00a57b5.chunk.js",
@@ -74,7 +76,7 @@
     "static/media/wrtn.png": "/bookmarks/static/media/wrtn.a8f12472f1b29de25932.png",
     "static/media/크집사 Fav.png": "/bookmarks/static/media/크집사 Fav.571f6a5b3cd90b0b5524.png",
     "static/media/Yandex.png": "/bookmarks/static/media/Yandex.5cb3c24a244d3db2ddeb.png",
-    "static/media/PUBG_outlined.png": "/bookmarks/static/media/PUBG_outlined.ca37d0969537982fc5bb.png",
+    "static/media/PUBG Steam.png": "/bookmarks/static/media/PUBG Steam.ca37d0969537982fc5bb.png",
     "static/media/DuckDuckGo.png": "/bookmarks/static/media/DuckDuckGo.790294b03bcb23f6fd27.png",
     "static/media/Voicemeeter.png": "/bookmarks/static/media/Voicemeeter.28895d452c83d85e3c21.png",
     "static/media/PUBG.png": "/bookmarks/static/media/PUBG.fdf143db0e803c98261a.png",
@@ -102,6 +104,8 @@
     "static/media/Google Calendar.png": "/bookmarks/static/media/Google Calendar.dd6af1cf4269caab804f.png",
     "static/media/YouTube_.png": "/bookmarks/static/media/YouTube_.8cd6348193f4a6226b69.png",
     "static/media/Google Drive.png": "/bookmarks/static/media/Google Drive.ed8219f690de2ffe1b9e.png",
+    "static/media/Warframe Steam.png": "/bookmarks/static/media/Warframe Steam.79daf675ed057fb88752.png",
+    "static/media/Warframe.png": "/bookmarks/static/media/Warframe.79daf675ed057fb88752.png",
     "static/media/Apple Music.png": "/bookmarks/static/media/Apple Music.a134e1d5f6c1ed04ff0b.png",
     "static/media/YouTube.png": "/bookmarks/static/media/YouTube.7bea553de901bdd0940b.png",
     "static/media/Bing.png": "/bookmarks/static/media/Bing.564c93d15668a04dbba3.png",
@@ -111,6 +115,6 @@
   },
   "entrypoints": [
     "static/css/main.f85dfc2a.css",
-    "static/js/main.04d93e89.js"
+    "static/js/main.e069a961.js"
   ]
 }

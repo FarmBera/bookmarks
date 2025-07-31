@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[8324],{8324:(s,a,e)=>{s.exports=e.p+"static/media/PUBG Steam.ca37d0969537982fc5bb.png"}}]);

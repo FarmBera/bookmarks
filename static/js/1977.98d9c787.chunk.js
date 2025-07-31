@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbookmarks=self.webpackChunkbookmarks||[]).push([[1977],{1977:(a,e,s)=>{a.exports=s.p+"static/media/Warframe Steam.79daf675ed057fb88752.png"}}]);
